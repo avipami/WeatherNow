@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 18.0686,
+        "lat": 59.3293
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 11.24,
+        "feels_like": 10.72,
+        "temp_min": 10.05,
+        "temp_max": 12.3,
+        "pressure": 1004,
+        "humidity": 88
+    },
+    "visibility": 9000,
+    "wind": {
+        "speed": 6.17,
+        "deg": 320
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1663588019,
+    "sys": {
+        "type": 1,
+        "id": 1788,
+        "country": "SE",
+        "sunrise": 1663561492,
+        "sunset": 1663606708
+    },
+    "timezone": 7200,
+    "id": 2673723,
+    "name": "Stockholm",
+    "cod": 200
+}
